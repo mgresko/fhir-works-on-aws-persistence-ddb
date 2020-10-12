@@ -28,7 +28,7 @@
     "prepublish": "tsc"
   },
   "dependencies": {
-    "fhir-works-on-aws-interface": "^1.0.0",
+    "fhir-works-on-aws-interface": "github:mgresko/fhir-works-on-aws-interface#INT-61",
     "@elastic/elasticsearch": "7",
     "aws-elasticsearch-connector": "^8.2.0",
     "aws-sdk": "^2.610.0",
