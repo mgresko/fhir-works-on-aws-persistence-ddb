@@ -1,5 +1,5 @@
 {
-  "name": "fhir-works-on-aws-persistence-ddb",
+  "name": "@abacus-insights/fhir-works-on-aws-persistence-ddb",
   "version": "2.0.1",
   "description": "FHIR Works on AWS persistence DynamoDB implementation",
   "main": "lib/index.js",
